@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 
 import Header from '../partials/Header';
 import ConnectBanner from '../partials/ConnectBanner';
+import WhatIDo from '../partials/WhatIDo';
 
 function Connect() {
   return (
@@ -11,6 +12,7 @@ function Connect() {
       {/*  Site header */}
       <Header />
       <ConnectBanner />
+      <WhatIDo  />
 
     </div>
   );
