@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import Header from '../partials/Header';
 import ConnectBanner from '../partials/ConnectBanner';
 import WhatIDo from '../partials/WhatIDo';
+import HomePageFooter from '../partials/HomePageFooter';
 
 function Connect() {
   return (
@@ -11,8 +12,15 @@ function Connect() {
 
       {/*  Site header */}
       <Header />
+
+      {/*  Page content */}
       <ConnectBanner />
       <WhatIDo  />
+
+      {/*  Site footer */}
+      <HomePageFooter />
+
+
 
     </div>
   );

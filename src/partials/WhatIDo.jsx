@@ -9,18 +9,30 @@ function WhatIDo() {
 
         <span className='text-left uppercase text-base font-semibold'>Trying to understand if Chewbacca was just cribbing about the dysfunctional Skywalker family <br /></span>
         <div class="w-full bg-gray-200 rounded-full my-4">
-          <div class="bg-gray-800 text-xs font-medium text-blue-100 text-center p-2 leading-none rounded-l-full shadow-md" style={{width: '75%'}}>75%</div>
+          <div class="bg-gray-800 text-xs font-medium text-blue-100 text-center p-2 leading-none rounded-l-full shadow-md" style={{width: '50%'}}>25%</div>
         </div>
+
+        <span className='text-left uppercase text-base font-semibold'>Click Pictures on my Camera <br /></span>
+        <div class="w-full bg-gray-200 rounded-full my-4">
+          <div class="bg-gray-800 text-xs font-medium text-blue-100 text-center p-2 leading-none rounded-l-full shadow-md" style={{width: '70%'}}>35%</div>
+        </div>
+
         <span className='text-left uppercase text-base font-semibold'>If Dinosaurs were smart creatures <br /></span>
         <div class="w-full bg-gray-200 rounded-full my-4">
-          <div class="bg-gray-800 text-xs font-medium text-blue-100 text-center p-2 leading-none rounded-l-full shadow-md" style={{width: '65%'}}>65%</div>
+          <div class="bg-gray-800 text-xs font-medium text-blue-100 text-center p-2 leading-none rounded-l-full shadow-md" style={{width: '50%'}}>25%</div>
         </div>
+
         <span className='text-left uppercase text-base font-semibold'>Visualizing Wakanda(n) Tech <br /></span>
         <div class="w-full bg-gray-200 rounded-full my-4">
-          <div class="bg-gray-800 text-xs font-medium text-blue-100 text-center p-2 leading-none rounded-l-full shadow-md" style={{width: '45%'}}>45%</div>
+          <div class="bg-gray-800 text-xs font-medium text-blue-100 text-center p-2 leading-none rounded-l-full shadow-md" style={{width: '30%'}}>15%</div>
+        </div>
+
+        <div className="max-w-xs mx-auto sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
+          <div>
+            <a href="/connect" className="btn text-black font-semibold border-black bg-white hover:bg-gray-900 hover:text-white w-full sm:w-32 my-4 sm:ml-4">CV</a>
+          </div>
         </div>
       </div>
-      <div className="absolute left-0 right-0 bottom-0 m-auto w-px p-px h-20 bg-gray-800 transform translate-y-1/2"></div>
     </section>
   );
 }
