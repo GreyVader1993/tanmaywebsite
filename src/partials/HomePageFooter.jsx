@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function HomePageFooter() {
   return (
     <footer>
-      <div className="max-w-6xl mx-auto px-4 sm:px-6 pt-8 sm:pt-6 bg-black">
+      <div className="mx-auto px-4 sm:px-6 pt-8 sm:pt-6 bg-black">
         {/* Bottom area */}
         <div className="flex items-center justify-center py-4 md:py-8 border-t border-gray-200">
           {/* Social links */}

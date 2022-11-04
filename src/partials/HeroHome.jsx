@@ -14,7 +14,7 @@ function HeroHome() {
               <p className="text-3xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150"><span class="mx-2">💻</span><span class="mx-2">⚽</span><span class="mx-2">🍽️</span><span class="mx-2">🧭</span><span class="mx-2">📷</span></p>
               <div className="max-w-xs mx-auto sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
                 <div>
-                  <a className="btn text-white font-bold border-gray-50 bg-gray-900 hover:bg-white hover:text-gray-900 w-full sm:w-32 my-4 sm:ml-4" href="#0">CONNECT</a>
+                  <a href="/connect" className="btn text-white font-bold border-gray-50 bg-gray-900 hover:bg-white hover:text-gray-900 w-full sm:w-32 my-4 sm:ml-4">CONNECT</a>
                 </div>
               </div>
             </div>
