@@ -27,9 +27,6 @@ function Home() {
         <Newsletter />
 
       </main>
-
-      <Banner />
-
       {/*  Site footer */}
       <Footer />
 
