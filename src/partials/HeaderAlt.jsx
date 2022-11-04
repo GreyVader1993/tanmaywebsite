@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import HeroImage from "../images/TD-Logo.png";
 
-function Header() {
+function HeaderAlt() {
   const [top, setTop] = useState(true);
 
   // detect whether user has scrolled the page down by 10px
@@ -41,10 +41,10 @@ function Header() {
             <ul className="flex flex-grow justify-end flex-wrap items-center">
             <li>
                 <Link
-                  to="/work"
+                  to="/connect"
                   className="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out"
                 >
-                  Work Experience
+                  Connect
                 </Link>
               </li>
             </ul>
@@ -55,4 +55,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default HeaderAlt;

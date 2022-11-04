@@ -29,7 +29,7 @@ function WhatIDo() {
 
         <div className="max-w-xs mx-auto sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
           <div>
-            <a href="/connect" className="btn text-black font-semibold border-black bg-white hover:bg-gray-900 hover:text-white w-full sm:w-32 my-4 sm:ml-4">CV</a>
+            <a href="/work" className="btn text-black font-semibold border-black bg-white hover:bg-gray-900 hover:text-white w-full sm:w-32 my-4 sm:ml-4">CV</a>
           </div>
         </div>
       </div>
