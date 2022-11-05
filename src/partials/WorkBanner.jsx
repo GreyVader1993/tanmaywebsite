@@ -42,7 +42,7 @@ function WorkBanner() {
             <h1 className='text-left uppercase font-bold text-base md:text-lg ml-4'>Full Stack Engineer</h1>
             <h1 className='lg:text-right uppercase font-bold text-base md:text-lg ml-4'>
               Mandeo Consultancy Services LLC <br />
-              <span className='text-gray-700'>Jul 20 - Mar 22</span>
+              <span className='text-gray-700'>Jul 20 - Mar 21</span>
             </h1>
           </div>
           <div className='border-t border-black w-full mx-4 my-2 max-w-md sm:max-w-2xl lg:max-w-5xl'></div>
