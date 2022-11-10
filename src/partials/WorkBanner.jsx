@@ -24,7 +24,7 @@ function WorkBanner() {
               <span className='text-gray-700'>Aug 2012 - Jun 2016</span>
             </h1>
             <h1 className='lg:text-right uppercase font-bold text-base md:text-lg ml-4'>
-              Masters of Science<br />
+              Bachelors of Science<br />
               <span className='text-gray-700'>Computer Science</span>
             </h1>
           </div>
