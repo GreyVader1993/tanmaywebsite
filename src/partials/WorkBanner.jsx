@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 function WorkBanner() {
   return (
-      <section class="h-screen">
+      <section>
         <div className="flex flex-col justify-center mt-48 sm:mt-96 mx-auto max-w-md sm:max-w-2xl lg:max-w-5xl">
         <h1 class="text-left uppercase font-bold text-xl md:text-3xl ml-4">Education</h1>
           <div className='border-t border-black w-full mx-4 my-2 max-w-md sm:max-w-2xl lg:max-w-5xl'></div>

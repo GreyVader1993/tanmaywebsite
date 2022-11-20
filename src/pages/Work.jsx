@@ -11,6 +11,7 @@ function Work() {
       {/*  Site header */}
       <HeaderAlt />
       <WorkBanner />
+
       <HomePageFooter />
 
     </div>
