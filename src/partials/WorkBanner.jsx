@@ -31,6 +31,22 @@ function WorkBanner() {
           <h1 class="text-left uppercase font-bold text-xl md:text-3xl ml-4 mt-4">WORK</h1>
           <div className='border-t border-black w-full mx-4 my-2 max-w-md sm:max-w-2xl lg:max-w-5xl'></div>
           <div className="flex flex-col justify-start lg:flex-row lg:justify-between">
+            <h1 className='text-left uppercase font-bold text-base md:text-lg ml-4'>Software Engineer</h1>
+            <h1 className='lg:text-right uppercase font-bold text-base md:text-lg ml-4'>
+              WiseTech Global <br />
+              <span className='text-gray-700'>Jan 24 - Jun 26</span>
+            </h1>
+          </div>
+          <div className='border-t border-black w-full mx-4 my-2 max-w-md sm:max-w-2xl lg:max-w-5xl'></div>
+          <div className="flex flex-col justify-start lg:flex-row lg:justify-between">
+            <h1 className='text-left uppercase font-bold text-base md:text-lg ml-4'>UI Developer</h1>
+            <h1 className='lg:text-right uppercase font-bold text-base md:text-lg ml-4'>
+              Blume Global <br />
+              <span className='text-gray-700'>Apr 23 - Dec 23</span>
+            </h1>
+          </div>
+          <div className='border-t border-black w-full mx-4 my-2 max-w-md sm:max-w-2xl lg:max-w-5xl'></div>
+          <div className="flex flex-col justify-start lg:flex-row lg:justify-between">
             <h1 className='text-left uppercase font-bold text-base md:text-lg ml-4'>Full Stack Engineer</h1>
             <h1 className='lg:text-right uppercase font-bold text-base md:text-lg ml-4'>
               DigitalSurgeons LLC <br />
