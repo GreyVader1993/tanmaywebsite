@@ -1,5 +1,4 @@
-# Replace the Contact address below with the address you want vulnerability reports sent to.
-Contact: mailto:REPLACE-WITH-SECURITY-CONTACT@tanmaydureja.com
+Contact: mailto:contact@tanmaydureja.com
 Expires: 2027-11-25T00:00:00.000Z
 Preferred-Languages: en
 Canonical: https://www.tanmaydureja.com/.well-known/security.txt
